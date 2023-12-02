@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Bootstrap](https://getbootstrap.com) - This helped me for the css styles. i'd recommend it to easy styles.
+- [Bootstrap](https://getbootstrap.com) - This helped me for the css styles. i'd recommend it to easy to use.
 
 ## Author
 
