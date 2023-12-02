@@ -1,0 +1,17 @@
+html {
+    font-family: 'Manrope', sans-serif;
+}
+.custombg {
+    background-color: hsl(218, 23%, 16%);
+}
+.ctext {
+    color: hsl(150, 100%, 66%);
+    font-size: 44px;
+}
+.ctext2 {
+    font-size: 48px;
+    color: hsl(193, 38%, 86%);
+}
+.cbg {
+    background-color: hsl(150, 100%, 66%);
+}
